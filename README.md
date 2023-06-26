@@ -3,3 +3,8 @@
 
 # Update 1 (June 26, 2023: 11:54PM)
     "Added final proposal PDF File"
+
+# Update 2 (June 26, 2023: 12:04PM)
+    "Added the references (game inspirations)"
+    "Actual journal studies, scholar articles, and formal academic papers will also be added"
+    "They will be put into the word file and updates will be created here accordingly"
